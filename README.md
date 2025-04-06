@@ -15,7 +15,6 @@ The goal of the project is to build and evaluate models that can predict the med
 - [Installation](#installation)
 - [Usage](#usage)
 - [Model Evaluation](#model-evaluation)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Project Overview
