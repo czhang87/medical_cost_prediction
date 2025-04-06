@@ -1,0 +1,5 @@
+tpot==0.12.2
+mlflow
+torch
+numpy==1.26.4
+seaborn==0.13.2
