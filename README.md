@@ -93,6 +93,6 @@ This helps in understanding the model's ability to explain the variance in the t
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ---
