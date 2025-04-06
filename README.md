@@ -2,8 +2,6 @@
 
 This project aims to predict medical insurance costs based on various demographic and health-related features using machine learning models. The dataset used for this analysis includes columns such as age, sex, BMI, number of children, smoking status, and region.
 
-The goal of the project is to build and evaluate models that can predict the medical insurance charges for individuals.
-
 ## Table of Contents
 
 - [Project Overview](#project-overview)
