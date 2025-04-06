@@ -1,7 +1,3 @@
-Here's a sample `README.md` for the project available at the provided GitHub link:
-
----
-
 # Medical Cost Prediction
 
 This project aims to predict medical insurance costs based on various demographic and health-related features using machine learning models. The dataset used for this analysis includes columns such as age, sex, BMI, number of children, smoking status, and region.
